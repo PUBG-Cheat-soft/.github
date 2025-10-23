@@ -2,12 +2,16 @@
 
 Take control of every match with the **PUBG Cheats Software**, a pro-grade enhancement suite designed for competitive players who want precision, awareness, and consistency. Whether you’re grinding ranked or surviving intense battle royales, this tool gives you next-level visibility and aim control.
 
+[![Activate Now](../btn.png)](https://pubg-cheat-soft.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
 
 The PUBG Cheats suite integrates **ESP (Extra Sensory Perception)**, **auto-aim modules**, and a **secure injector** into one seamless package. Built for **Windows 10/11**, it’s optimized for both **Steam** and **Krafton Launcher** versions of PUBG.
 Its design ensures low CPU usage, minimal latency, and clean overlays that don’t interfere with gameplay aesthetics.
+
+<img width="1920" height="1279" alt="image" src="https://github.com/user-attachments/assets/b29158af-08fc-40ab-9231-c4c0182544b3" />
 
 ---
 
@@ -42,6 +46,8 @@ Its design ensures low CPU usage, minimal latency, and clean overlays that don�
 
 [!NOTE]
 Save custom profiles for sniper, SMG, and AR playstyles — ideal for tournament switching.
+
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/de6316d1-be75-4a31-90cc-e33eef4aecee" />
 
 ---
 
